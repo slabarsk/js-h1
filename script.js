@@ -19,7 +19,7 @@ console.log({ myMessage: msg });
 
 $("#sla")
   .html(ksg)
-  // 3. Smart autocomplete: type .fadeIn('slow')
-  // after .fadeOut('slow')
+  
+  // .fadeIn
   .fadeIn(300);
 console.log({ myMessage: ksg });
