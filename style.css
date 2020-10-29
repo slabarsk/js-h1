@@ -1,0 +1,17 @@
+body {
+  background: white; /* try type yellow */
+  color: #323232;
+
+  margin: 0;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  font-family: Helvetica neue, roboto;
+}
+
+.sla{
+  color:green;
+}
